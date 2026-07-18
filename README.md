@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**sneh1008/sneh1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sneh Hadiyal</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Computer Science & Engineering (CSE) Student</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 I'm currently studying **Computer Science & Engineering (CSE)**
+- 🌱 I’m learning **Java, JavaScript, C, C++**
+- 💻 Passionate about Web Development
+
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming Languages
+- C
+- C++
+- Java
+- JavaScript
+
+### 🎨 Frontend Development
+- HTML5
+- CSS3
+- -AngularJS
+
+### ☁️ DevOps / Cloud
+- AWS
+
+---
+
+## 🌐 Connect With Me
+## 🌐 Connect With Me
+
+- 📧 Email: snehhadiyal@gmail.com
+  
+- 📸 Instagram: **@hadiyal__sneh**
+
+---
+
+## 📊 GitHub Stats
+
+- 🔥 Learning and building new projects
+- 🚀 Always improving my coding skills
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
+
+
